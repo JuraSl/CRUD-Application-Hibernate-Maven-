@@ -25,5 +25,15 @@
 	<classpathentry kind="lib" path="C:/Users/User/Desktop/FrameWorks @ Libraries/hibernate-entitymanager-5.2.10.Final.jar"/>
 	<classpathentry kind="lib" path="C:/Users/User/Desktop/FrameWorks @ Libraries/hibernate-3.2.6.ga.jar"/>
 	<classpathentry kind="lib" path="C:/Users/User/Desktop/FrameWorks @ Libraries/mysql-connector-java-5.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/FrameWorks @ Libraries/hibernate-search-5.8.0.Final/dist/lib/required/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/FrameWorks @ Libraries/hibernate-search-5.8.0.Final/dist/lib/required/classmate-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/FrameWorks @ Libraries/hibernate-search-5.8.0.Final/dist/lib/required/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/FrameWorks @ Libraries/hibernate-search-5.8.0.Final/dist/lib/required/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/FrameWorks @ Libraries/hibernate-search-5.8.0.Final/dist/lib/required/hibernate-core-5.2.11.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/FrameWorks @ Libraries/hibernate-search-5.8.0.Final/dist/lib/required/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/FrameWorks @ Libraries/hibernate-search-5.8.0.Final/dist/lib/required/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/FrameWorks @ Libraries/hibernate-search-5.8.0.Final/dist/lib/required/lucene-core-5.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/FrameWorks @ Libraries/hibernate-search-5.8.0.Final/dist/lib/required/lucene-queryparser-5.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/FrameWorks @ Libraries/hibernate-search-5.8.0.Final/dist/lib/required/xml-apis-1.3.03.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
